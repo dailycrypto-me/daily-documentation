@@ -8,12 +8,12 @@ description: Thanks for dropping by the Daily Project!
 
 Daily is an EVM-compatible smart contract platform based on t-Graph consensus utilizing blockDAG, with many world-first technical innovations.&#x20;
 
-Founded by two Stanford Engineers in 2018, Daily launched its mainnet on April 3, 2023 and has since consistently built up awareness and market traction, gaining widespread recognition for its innovations on top of the next-gen blockDAG architecture,&#x20;
+Founded by Pedro Sankistao in 2018, Daily launched its mainnet on November 16, 2024 and has since consistently built up awareness and market traction, gaining widespread recognition for its innovations on top of the next-gen blockDAG architecture,&#x20;
 
-* First Native EVM Integration in blockDAG
-* First PoS blockDAG
-* First Dynamic blockDAG Proposal Rate
-* First True Finality in blockDAG
+* One of the early implementation of Native EVM Integration in blockDAG
+* One of the early implementation of  PoS blockDAG
+* One of the early implementation of  Dynamic blockDAG Proposal Rate
+* One of the early implementation of  True Finality in blockDAG
 
 These innovations give Daily unsurpassed throughput at scale without security or decentralization tradeoffs, paving the way for the next infrastructural upgrade from blockchain to blockDAG.&#x20;
 
