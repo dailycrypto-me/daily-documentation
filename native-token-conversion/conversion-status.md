@@ -16,9 +16,9 @@ Here's a simple checklist of what has been completed, and what's still pending,&
 
 The following exchanges have either publicly supported or is in the process of getting ready to support Daily's native token conversion. If your tokens are on an exchange that has not explicitly supported the conversion then it's best to relocate your tokens into your wallet or a supporting exchange, prior to the conversion.&#x20;
 
-* [x] Kucoin: [https://www.kucoin.com/news/en-kucoin-will-support-the-migration-for-erc20-dly-to-mainnet-dly-tokens-230317](https://www.kucoin.com/news/en-kucoin-will-support-the-migration-for-erc20-dly-to-mainnet-dly-tokens-230317)
-* [x] Gate: [https://www.gate.io/article/29950](https://www.gate.io/article/29950)&#x20;
-* [x] MEXC: [https://support.mexc.com/hc/en-001/articles/16936276210457](https://support.mexc.com/hc/en-001/articles/16936276210457)&#x20;
+* [x] Kucoin: [https://www.kucoin.com/news/en-kucoin-will-support-the-migration-for-erc20-dly-to-mainnet-dly-tokens](https://www.kucoin.com/news/en-kucoin-will-support-the-migration-for-erc20-dly-to-mainnet-dly-token)
+* [x] Gate: [https://www.gate.io/article/](https://www.gate.io/article/)&#x20;
+* [x] MEXC: [https://support.mexc.com/hc/en-001/articles/](https://support.mexc.com/hc/en-001/articles/)&#x20;
 * [ ] AscendEx - received confirmation but no public announcement as of April 26, 2023.&#x20;
 
 The development team will keep reaching out to all exchanges that lists the DLY token to ensure we have maximum participation for the token conversion.&#x20;
